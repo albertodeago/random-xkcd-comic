@@ -1,0 +1,24 @@
+{
+  "name": "random-xkcd-comic",
+  "version": "0.1.0",
+  "description": "A simple service to return random xkcd comics",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://github.com/albertodeago/random-xkcd-comic"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "express"
+  ]
+}
